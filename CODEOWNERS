@@ -1,0 +1,6 @@
+# Match all
+*                                               
+
+# Everything in docs and all README's should be assigned
+/docs/ @gillkyle
+README.md @gillkyle
