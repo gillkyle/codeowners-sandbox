@@ -1,3 +1,3 @@
 # gatsby-cli
 
-info	
+more info	
